@@ -68,7 +68,7 @@ def TemAlta(tem,hum):
     GPIO.output(18, GPIO.LOW) 
     
 
-# ciclo funciones
+# Blink the led
 while True: # Forever
     tem = randint(10,30)
     hum = randint(45,100)
