@@ -1,3 +1,9 @@
+#Proyecto Final Invernadero
+# author: Casasola Hernandez Paulina
+#         Barrera Rangel Guillermo
+#         Bonilla Martinez Guadalupe Wendy
+#
+# ventilador.py
 # Future imports (Python 2.7 compatibility)
 from __future__ import absolute_import
 from __future__ import division
