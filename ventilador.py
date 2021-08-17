@@ -4,6 +4,10 @@
 #         Bonilla Martinez Guadalupe Wendy
 #
 # ventilador.py
+#
+#
+#License MIT
+#
 # Future imports (Python 2.7 compatibility)
 from __future__ import absolute_import
 from __future__ import division
@@ -64,7 +68,7 @@ def TemAlta(tem,hum):
     GPIO.output(18, GPIO.LOW) 
     
 
-# Blink the led
+# ciclo funciones
 while True: # Forever
     tem = randint(10,30)
     hum = randint(45,100)
